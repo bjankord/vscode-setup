@@ -1,0 +1,8 @@
+{
+    "editor.fontFamily": "Consolas",
+    "editor.fontSize": 15,
+    "editor.tabSize": 2,
+    "vsicons.hideFolders": true,
+    "editor.scrollBeyondLastLine": false,
+    "editor.selectionHighlight": false,
+}
